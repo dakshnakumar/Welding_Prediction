@@ -4,6 +4,7 @@ web app for predicting outcome of welding using machine learning
 Developed web app for predicting outcome of welding. This web app will be very useful for welder , by knowing the outcome of the welding before he actually do the welding process. While traning machine learning model , used all the necesaary preprocessing technique , examined machine learning models like Randomforest , KNN and SuppportVectorMachine(SVM) after traning deployed in web.
 
 Dataset:
+Due to industry terms and conditions , i cannot able to share the dataset.
 <img width="1194" alt="image" src="https://github.com/dakshnakumar/Welding_Prediction/assets/81346958/0690b2d0-58b0-411a-a478-ee589c13050c">
 
 
